@@ -1,3 +1,4 @@
+文档： https://app.yinxiang.com/shard/s46/nl/12941472/49f19e9d-9721-4e0c-b9aa-d24e7260937f
 # electron-react
 
 electron + react + react-router + mobx + webpack 搭建的脚手架工程 【配功能实例DEMO】
